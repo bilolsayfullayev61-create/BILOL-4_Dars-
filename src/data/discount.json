@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "chegirma 1"
+  },
+  {
+    "id": 2,
+    "name": "chegirma 2"
+  },
+  {
+    "id": 3,
+    "name": "chegirma 3"
+  },
+  {
+    "name": "aziz",
+    "id": 4
+  },
+  {
+    "name": "azaa",
+    "foyiz": "20",
+    "id": 5
+  },
+  {
+    "name": "azaa",
+    "foyiz": 20,
+    "id": 6
+  },
+  {
+    "name": "asda",
+    "narx": 30000,
+    "foyiz": 10,
+    "chegirmaSummasi": 3000,
+    "yakuniyNarx": 27000,
+    "id": 7
+  },
+  {
+    "name": "asda",
+    "narx": 30000,
+    "foyiz": 1,
+    "chegirmaSummasi": 300,
+    "yakuniyNarx": 29700,
+    "id": 8
+  }
+]
